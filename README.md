@@ -11,14 +11,14 @@
 
 ---
 
-## 🧠 Sobre Mim
+## 🧠 About Me
 
-Desenvolvedor Fullstack completamente interessado tecnologia e inovação. Possuo experiência com desenvolvimento web, mobile e integração de sistemas. Muito bom em criar soluções eficientes e escaláveis, sempre focado em boas práticas e melhoria contínua.
+Fullstack Developer completely interested in technology and innovation. I have experience with web and mobile development, and systems integration. Very good at creating efficient and scalable solutions, always focused on best practices and continuous improvement.
 
-- 🔭 Atualmente trabalhando como **Desenvolvedor Web** no **Grupo Anchieta**
-- 🌱 Aprendendo **DevOps, CI/CD e Cloud Computing**
-- 👯 Procurando colaborar em **Prjetos Freelancer**
-- 💬 Pergunte-me sobre **Programação, Sistemas Operacionais, DevOps**
+- 🔭 Currently working as a **Web Developer** at **Grupo Anchieta**
+- 🌱 Learning **DevOps, CI/CD and Cloud Computing**
+- 👯 Looking to collaborate on **Freelance Projects**
+- 💬 Ask me about **Programming, Operating Systems, DevOps**
 
 ---
 
@@ -32,11 +32,11 @@ Desenvolvedor Fullstack completamente interessado tecnologia e inovação. Possu
 
 ---
 
-## 🚀 Tecnologias e Habilidades
+## 🚀 Technologies and Skills
 
 <div align="center">
   
-  ### Linguagens de Programação
+  ### Programming Languages
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -53,14 +53,14 @@ Desenvolvedor Fullstack completamente interessado tecnologia e inovação. Possu
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </p>
   
-  ### Banco de Dados
+  ### Databases
   <p>
     <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </p>
   
-  ### DevOps & Ferramentas
+  ### DevOps & Tools
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -82,37 +82,37 @@ Desenvolvedor Fullstack completamente interessado tecnologia e inovação. Possu
 
 ---
 
-## 🎓 Cursos & Certificações
+## 🎓 Courses & Certifications
 
 <div style="display: flex; gap: 40px; justify-content: space-between;" >  
   <div>
-      <h3>Certificações</h3>
+      <h3>Certifications</h3>
       <a href="https://www.credly.com/badges/b0019545-acc5-40ae-8e4f-b30f034e1866" target="_blank">
         <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150" alt="GitHub Foundations" />
       </a>
   </div>
 </div>
 
-## 🎓 Formação Acadêmica
+## 🎓 Education
 
-**Bacharelado em Ciências da Computação** @ Grupo Anchieta _(Jan 2022 - Dez 2025)_
+**Bachelor of Computer Science** @ Grupo Anchieta _(Jan 2022 - Dec 2025)_
 
-- Foco em: Progração FullStack e Integração e entrega contínuas (CI/CD)
-- Áreas de estudo: Algoritmos, Estrutura de Dados, Desenvolvimento Web, Banco de Dados, Redes
-- Tecnologias aprendidas: JavaScript, PHP, Python, SQL Server, MongoDB, Git, CI/CD
+- Focus on: Programming and DevOps
+- Study areas: Algorithms, Data Structures, Web Development, Databases, Networks
+- Technologies learned: JavaScript, PHP, Python, SQL Server, MongoDB, Git, Gitlab CI/CD, Jenkins
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-**Desenvolvedor Web** @ Grupo Anchieta _(2024 - Presente)_
+**Web Developer** @ Grupo Anchieta _(2024 - Present)_
 
-- Desenvolvimento e manutenção de aplicações web utilizando React, Node.js e SQL Server
-- Automação de processos e integração de sistemas
-- Tecnologias: React, Node.js, SQL Server, Git, TypeScript, JavaScript, PHP
+- Development and maintenance of web applications using React, Node.js and SQL Server
+- Process automation and systems integration
+- Technologies: React, Node.js, SQL Server, Git, TypeScript, JavaScript, PHP
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardo-tcarvalho&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Contador de visualizações" />
+  <img src="https://komarev.com/ghpvc/?username=leonardo-tcarvalho&color=blue&style=flat-square&label=Profile+Views" alt="View counter" />
 </div>
 
 <p align="center">
@@ -120,5 +120,5 @@ Desenvolvedor Fullstack completamente interessado tecnologia e inovação. Possu
 </p>
 
 <p align="center">
-  💡 Sempre buscando evoluir como Dev e como pessoa. Pronto para o próximo desafio!
+  💡 Always seeking to evolve as a Dev and as a person. Ready for the next challenge!
 </p>
