@@ -38,13 +38,18 @@ I'm looking for mid-level full-stack, backend, or cloud-adjacent roles in Portug
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </p>
 
-### ⚙️ Back-End & Databases
+### ⚙️ Back-End
 
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+
+### 🗄️ Databases
+
+  <p>
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -64,8 +69,10 @@ I'm looking for mid-level full-stack, backend, or cloud-adjacent roles in Portug
 ### 🤖 AI, Automation & CMS
 
   <p>
-    <img src="https://img.shields.io/badge/n8n-FF6F00?style=for-the-badge&logo=n8n&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI--Assisted_Development-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+    <img src="https://img.shields.io/badge/Agentic_Workflows-0F766E?style=for-the-badge&logo=robotframework&logoColor=white" />
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </p>
 
