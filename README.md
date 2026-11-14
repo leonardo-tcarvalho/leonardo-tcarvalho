@@ -69,7 +69,6 @@ I'm looking for mid-level full-stack, backend, or cloud-adjacent roles in Portug
 ### 🤖 AI, Automation & CMS
 
   <p>
-    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/AI--Assisted_Development-412991?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
     <img src="https://img.shields.io/badge/Agentic_Workflows-0F766E?style=for-the-badge&logo=robotframework&logoColor=white" />
